@@ -1,6 +1,8 @@
 # D2509_Flutter
 Google에서 개발한 크로스 플랫폼 앱 개발 프레임워크
 
+<img src="./images/flutter.png" width="80%"> 
+
 ## INDEX
 - [Flutter의 핵심 특징](#-flutter의-핵심-특징)
 - [Flutter의 장점 요약](#-flutter의-장점-요약)
