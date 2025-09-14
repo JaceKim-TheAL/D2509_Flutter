@@ -17,6 +17,7 @@
   - 두번째는 Android Studio이다. 
 - 앱을 실제로 퍼블리싱할때 쓰이는 몇몇 도구가 Android Studio에 있고 Android SDK를 손쉽게 설치할 수 있기 때문에 Android Studio를 권장한다.
 
+---
 ## Flutter 개발환경 구축
 
 ### 1️⃣ Android Studio 설치
@@ -68,4 +69,5 @@
 <br/>
 
 [[TOP]](#index)
+
 ---
