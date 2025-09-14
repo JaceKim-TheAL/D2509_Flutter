@@ -28,6 +28,7 @@
 - 아까 기억해둔 Android SDK의 위치를 환경변수를 설정하는 곳에 가서 사용자 변수 항목에 변수 이름은 `ANDROID_HOME` 을 변수 값은 Android SDK의 위치를 넣고 등록하면 된다.
 
 <img src="./images/set01_환경변수.png" width="50%" alt="android-sdk-path">
+<br/>
 
 - 그 다음에는 Android SDK 폴더 아래에 위치해 있는 **platform-tools** 폴더를 등록해야 한다.
 시스템 변수 항목에 `Path` 라는 항목을 클릭해서 **platform-tools** 폴더의 위치를 입력하고 저장한다.
@@ -50,10 +51,12 @@
 - 처음 설치한 Android Studio를 열고 Plugins를 연다.
 
 <img src="./images/set04_플러그인.png" width="50%" alt="android-studio-plugin">
+<br/>
 
 - Flutter를 검색하고 설치하면 된다.
 
 <img src="./images/set05_플러그인.png" width="50%" alt="flutter-plugin">
+<br/>
 
 - Install를 누르면 Dart 플러그인도 같이 설치하냐고 묻는데 Flutter는 Dart 기반이므로 같이 설치해야 한다.
 <br/>
@@ -62,7 +65,6 @@
 - Plugins 항목을 닫고 메인화면으로 돌아온뒤 Start a new Flutter project를 눌러 Flutter의 세계로 진입하면 된다 :)
 
 <img src="./images/set06_프로젝트시작.png" width="50%" alt="start-flutter-project">
-
 <br/>
 
 [[TOP]](#index)
